@@ -4,7 +4,7 @@
 mas explicita.
 
 
-$profesor = array('nombre' => 'Marc', 'telefono', => 665533, 'edad' => 35,
+$profesor = array('nombre' => 'Juan', 'telefono', => 340654, 'edad' => 44,
 'apellido' => 'Esteve', 'ciudad' => 'Castelldefels');
 
 
